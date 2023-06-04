@@ -7,10 +7,9 @@ For see the animation, go see [DEMO](https://www.qodall.com/)
 
 ## Installation
 
-For install this project in your computer you need to clone this repository.
-
 ![Gif of Home Page](./ReadMe/GifPage.gif)
 
+For install this project in your computer you need to clone this repository.  
 Use the package manager [npm](https://www.npmjs.com/) to install all dependencies.
 
 ```bash
