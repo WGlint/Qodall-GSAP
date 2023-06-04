@@ -1,6 +1,6 @@
 # Animation for waiting page - GSAP and React
 
-It's a simple animation for waiting page. I use GSAP and React for create this one.
+It's a simple animation for waiting page. I use GSAP and React for create this one.  
 For see the animation, go see [DEMO](https://www.qodall.com/)
 
 ![Picture of Home Page](./ReadMe/HomePage.png)
