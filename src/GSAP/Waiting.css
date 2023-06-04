@@ -1,0 +1,151 @@
+body
+{
+    background-color: #000000;
+    color: white;
+}
+
+
+
+/* LOGO */
+
+:root{
+    --color : white
+}
+
+
+
+.Logo
+{
+    position: absolute;
+    transform: translate(-50%,-50%);
+    top: 50%;
+    left: 50%;
+}
+
+.SquareC
+{
+    background-color: var(--color);
+    width: 0px;
+    height: 0px;
+}
+
+.CircleTL
+{
+    width: 0px;
+    height: 0px;
+    background-color: var(--color);
+    border-radius: 50px;
+    top: -17px;
+    transform: translate(-50%,-50%);
+    left: 64px;
+    position: absolute;
+}
+
+.CircleTR
+{
+    width: 0px;
+    height: 0px;
+    background-color: var(--color);
+    border-radius: 50px;
+    top: -17px;
+    left: -13px;
+    position: absolute;
+    transform: translate(-50%,-50%);
+}
+
+.CircleBL
+{
+    width: 0px;
+    height: 0px;
+    background-color: var(--color);
+    border-radius: 50px;
+    top: 68px;
+    transform: translate(-50%,-50%);
+    left: -13px;
+    position: absolute;
+}
+
+.CircleBR
+{
+    width: 0px;
+    height: 0px;
+    background-color: var(--color);
+    border-radius: 50px;
+    top: 68px;
+    left: 64px;
+    position: absolute;
+    transform: translate(-50%,-50%);
+}
+
+.BorderT
+{
+    background-color: var(--color);
+    position: absolute;
+    width: 0px;
+    height: 3px;
+    top: -20px;
+    left: 64px;
+    transform: translate(-100%, 0%);
+}
+
+.BorderB
+{
+    background-color: var(--color);
+    position: absolute;
+    width: 0px;
+    height: 3px;
+    top: 67px;
+    left: -10px;
+
+}
+
+.BorderL
+{
+    background-color: var(--color);
+    position: absolute;
+    width: 3px;
+    height: 0px;
+    top: -20px;
+    left: -14px;
+    transform: translate(-100%, 0%);
+}
+
+.BorderR
+{
+    background-color: var(--color);
+    position: absolute;
+    width: 3px;
+    height: 0px;
+    top: 61px;
+    left: 66px;
+    transform: translate(0,-100%);
+}
+
+
+
+/* TEXTE */
+
+@import url('https://fonts.googleapis.com/css2?family=Explora&family=Lora:ital,wght@0,400;0,600;0,700;1,600;1,700&family=Noto+Sans:wght@300&family=Roboto+Mono:wght@300&display=swap');
+
+.Texte
+{
+    width: 300px;
+    height: 20px;
+    position: absolute;
+    transform: translate(-50%,-50%);
+    top: 65%;
+    text-align: center;
+    left: 50%;
+}
+
+.Txtcurseur
+{
+    opacity: 0;
+    font-size: 20px;
+}
+
+.curseur
+{
+    font-size: 20px;
+    font-family: 'Roboto Mono', monospace;
+}
