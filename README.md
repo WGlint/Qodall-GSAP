@@ -5,7 +5,7 @@ For see the animation, go see [DEMO](https://www.qodall.com/)
 
 ![Picture of Home Page](./ReadMe/HomePage.png)
 
-## Installation
+## How install and run
 
 ![Gif of Home Page](./ReadMe/GifPage.gif)
 
